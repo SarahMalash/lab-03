@@ -1,0 +1,41 @@
+body{
+    background-color:burlywood;
+}
+h1{
+    color: rgb(43, 100, 76);
+}
+
+h2{
+    color: grey ;
+}
+
+
+footer{
+    color: grey;
+}
+/* radio */
+#radioSorting{
+    color: blue ;
+}
+
+.button{
+    background-color:rgb(70, 47, 68) ;
+    color:whitesmoke ;
+}
+
+
+
+ select{
+    background-color: rgba(92, 73, 89, 0.918)  ;
+    color:rgb(31, 14, 29); 
+}
+
+/* script */
+#titleDes{
+     box-shadow: 0 4px 8px 0 rgba(54, 36, 36, 0.2), 0 6px 20px 0 rgba(228, 161, 161, 0.19);
+     color: rgb(39, 11, 35);
+}
+#numberHoens{
+    color: rgba(151, 120, 148, 0.897);
+    background-color:rgb(65, 35, 62);
+}
